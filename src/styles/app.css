@@ -1,0 +1,52 @@
+.logo{
+    position: absolute;
+    top: 20px;
+    left:20px;
+    cursor: pointer;
+}
+.bookContainer{
+    display: flex;
+    margin-top: 10px;
+}
+.bookItem{
+    width: 30%;
+}
+
+.loginButton{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: inline-block;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cartButton{
+    display: inline-block;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.purchaseBtn{
+    display: inline-block;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buyBtn{
+    display: inline-block;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
